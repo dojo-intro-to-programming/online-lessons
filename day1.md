@@ -7,9 +7,9 @@
     - How do we send an HTTP request?
     - How do we respond to an HTTP request?
 3. JS Basics - 20min
-    - Printing to console.
-    - Variables/functions.
-    - Conditionals.
-    - Loops.
+    - Printing to console
+    - Variables/functions
+    - Conditionals
+    - Loops
 4. Predict The Output - 15min
-    - 5 examples as a class.
+    - 5 examples as a class
