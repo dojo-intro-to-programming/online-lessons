@@ -13,5 +13,5 @@
 4. Intermediate Arrays and Objects - 5min
     - Deeper dive into key, value pairs in objects
     - Intro to nesting and multidimensional arrays
-4. Predict The Output - 10min
+5. Predict The Output - 10min
     - Multidimensional arrays and objects in breakout rooms
