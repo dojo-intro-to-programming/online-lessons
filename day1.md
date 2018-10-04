@@ -1,6 +1,6 @@
 # Day One
 ## Objectives - Learn the basics of algorithm logic and the foundations of how a web app transfers data over the internet.
-1. Introduction
+1. Introduction - 5min
 2. HTTP Request/Response Cycle - 5min
     - What is HTTP?
     - Why should we care?
@@ -11,6 +11,5 @@
     - Variables/functions.
     - Conditionals.
     - Loops.
-4. Predict The Output - 30min
+4. Predict The Output - 15min
     - 5 examples as a class.
-    - Split into breakout groups to predict output for remainder of class.
