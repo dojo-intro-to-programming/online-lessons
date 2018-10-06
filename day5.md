@@ -14,3 +14,8 @@
     4. Test and Debug
         - Errors are our friends
         - T-Diagrams + debugging
+3. Abstractions - 5min
+    - What is abstraction?
+    - Why do we care?
+4. Algo Problems in Breakout Rooms - 10min
+    - Not to basic 13 yet
