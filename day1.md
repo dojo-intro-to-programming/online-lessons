@@ -12,4 +12,5 @@
     - Conditionals
     - Loops
 4. Predict The Output - 15min
+    - Intro to T-Diagrams
     - 5 examples as a class

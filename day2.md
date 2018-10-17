@@ -13,6 +13,5 @@
 3. Intermediate Code Flow - 10min
     - What does it mean to execute a function?
     - What does it mean to return a value?
-    - Intro to T-Diagrams
 4. Predict The Output - 15min
     - Predict the output with some tricky examples in breakout groups
