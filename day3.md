@@ -6,12 +6,18 @@
 2. Reference vs. Value - 10min
     - What does it mean to store something by value?
     - What does it mean to store something by reference?
-    - Examples using variables
-    - Examples using functions
 3. Predict The Output - 10min
     - Tricky value vs. reference examples
-4. Intermediate Arrays and Objects - 5min
-    - Deeper dive into key, value pairs in objects
-    - Intro to nesting and multidimensional arrays
-5. Predict The Output - 10min
-    - Multidimensional arrays and objects in breakout rooms
+4. Starting Function Writing - 10min
+    1. Understand the problem
+        - What are the important questions?
+        - Draw it out, figure out how you would explain the problem to someone else
+    2. Divide and conquer
+        - How can we divide the big questions into smaller questions and answer them?
+    3. Pseudo-code
+        - How can we use those answers to create a step-by-step plan?
+    4. Test and Debug
+        - Errors are our friends
+        - T-Diagrams + debugging
+5. Solve Some Algorithms - 15min
+    - Breakout rooms.
