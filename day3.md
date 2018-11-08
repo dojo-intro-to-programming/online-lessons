@@ -1,5 +1,5 @@
 # Day Three
-## Objectives - Learn about storing data by reference vs. value, expand on knowledge of arrays and objects.
+## Objectives - Write solutions to our first algorithms problems.
 1. Recap - 10min
     - Q&A
     - Predict the output answers

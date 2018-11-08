@@ -1,5 +1,5 @@
 # Day Four
-## Objectives - Learn more advanced array and object manipulation, expand on knowledge of functions by exploring callbacks.
+## Objectives - Learn about arrays more deeply through algorithms.
 1. Recap - 10min
     - Q&A
     - Predict the output answers
