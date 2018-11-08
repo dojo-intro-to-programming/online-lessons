@@ -8,6 +8,7 @@
     1. Understand the problem
         - What are the important questions?
         - Draw it out, figure out how you would explain the problem to someone else
+        - How would we do it as a human?
     2. Divide and conquer
         - How can we divide the big questions into smaller questions and answer them?
     3. Pseudo-code

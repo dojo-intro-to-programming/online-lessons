@@ -3,13 +3,12 @@
 1. Recap - 10min
     - Q&A
     - Predict the output answers
-2. Predict The Output - 10min
-    - Arrays of objects and manipulation of complex data
-3. Introduction to callbacks - 10min
-    - What is a callback?
-    - Why is it important?
-        - What is asynchronous code?
-    - Examples using named functions
-    - Examples using anonymous functions
-4. Predict The Output - 15min
-    - Callbacks, callbacks, callbacks
+2. Reference vs. Value - 15min
+    - Which types are stored by reference?
+    - Which types are stored by value?
+    - What's the difference? (Some Examples)
+3. Iterating Through Arrays - 10min
+    - For loops
+    - While loops??
+4. Array algorithm examples using problem solving framework. - 10min
+5. Array algorithms in breakout rooms. - 15min
