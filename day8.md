@@ -1,5 +1,5 @@
 # Day Eight
-## Description - Callbacks
+## Description - Callbacks and Final Assignment
 ## Objectives - Learn about callbacks and apply them in your libraries.
 1. Recap - 20min
     - Q&A
