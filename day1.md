@@ -1,16 +1,21 @@
 # Day One
-## Objectives - Learn the basics of algorithm logic and the foundations of how a web app transfers data over the internet.
-1. Introduction - 5min
-2. HTTP Request/Response Cycle - 5min
-    - What is HTTP?
-    - Why should we care?
-    - How do we send an HTTP request?
-    - How do we respond to an HTTP request?
-3. JS Basics - 20min
-    - Printing to console
-    - Variables/functions
-    - Conditionals
+## Description - JavaScript Intro/Building Blocks
+## Objectives - Learn the basics of JavaScript and read your first scripts.
+1. Introduction - 10min
+    - Why are you here?
+    - How much experience do you have?
+3. JS Basics - 40min
+    - Remember Things
+        - Variables
+        - Functions
+        - Databases
+    - Logic
+        - Math
+        - Conditionals
+            - if | else if | else
     - Loops
-4. Predict The Output - 15min
+        - for
+        - while
+4. Predict The Output - 10min
     - Intro to T-Diagrams
-    - 5 examples as a class
+    - A few examples as a class

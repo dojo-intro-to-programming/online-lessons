@@ -1,10 +1,14 @@
 # Day Three
+## Description - Writing Algorithm Solutions
 ## Objectives - Write solutions to our first algorithms problems.
-1. Recap - 10min
+1. Recap - 20min
     - Q&A
     - Predict the output answers
 2. Why algorithms? - 5min
-3. Starting Function Writing - 10min
+3. Helpful Tidbits - 5min
+    - Modulo
+    - && || !
+4. Starting Function Writing - 10min
     1. Understand the problem
         - What are the important questions?
         - Draw it out, figure out how you would explain the problem to someone else
@@ -16,5 +20,5 @@
     4. Test and Debug
         - Errors are our friends
         - T-Diagrams + debugging
-4. Solve Some Algorithms - 15min
+5. Solve Some Algorithms - 15min
     - Breakout rooms.

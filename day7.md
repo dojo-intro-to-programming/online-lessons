@@ -1,4 +1,5 @@
 # Day Seven
+## Description - Scope, Libraries, and Modules.
 ## Objectives - Learn about scope, libraries, and modules. Build your first library.
 1. Recap - 10min
     - Q&A

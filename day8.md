@@ -1,13 +1,14 @@
 # Day Eight
-## Objectives - Learn about libraries and write your own for strings, objects, and arrays.
-1. Recap - 10min
+## Description - Callbacks
+## Objectives - Learn about callbacks and apply them in your libraries.
+1. Recap - 20min
     - Q&A
     - Algorithm solutions
-2. Introduction to Libraries in JS - 15min
-    - What is a library?
-    - What are the different ways we can package libraries in JS?
-    - How can we use libraries to our advantage?
-    - What are some popular libraries?
-3. Build Your Own Array Library in Breakout Rooms - 20min
-
-Completion of objects, strings, and array libraries are optional. Exam covers all material covered in class as well as some material in optional assignments.
+2. Functions within functions - 5min
+    - Driver vs helper functions.
+3. Introduction to callbacks - 20min
+    - What is a callback?
+    - Why do we use callbacks?
+    - How do callbacks work?
+4. Callback examples as a class - 10min
+5. Final library assignment in breakout rooms - 15min
