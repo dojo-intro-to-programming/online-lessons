@@ -1,13 +1,13 @@
-# Day Four
-## Description - Intermediate Arrays
-## Objectives - Learn about arrays more deeply through algorithms.
+# Day Five
+## Description - Basic 13 Algorithms
+## Objectives - Complete all basic 13 algorithms problems in under 2 minutes each.
 1. Recap - 20min
     - Q&A
-    - Predict the output answers
-2. Reference vs. Value - 15min
-    - Which types are stored by reference?
-    - Which types are stored by value?
-    - What's the difference? (Some Examples)
-3. Iterating Through Arrays - 10min
-4. Array algorithm examples using problem solving framework. - 10min
-5. Array algorithms in breakout rooms. - 15min
+    - Algorithm solutions
+2. Basic 13 Practice in Breakout Rooms - 25min
+3. Strings - 10min
+    - Properties of strings
+        - indices, length, immutability
+    - Dealing with strings
+        - Concatenation
+4. Introduction to Final Project
